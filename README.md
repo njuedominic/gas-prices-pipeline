@@ -1,0 +1,2 @@
+#### An ETL Pipeline for Gas Prices in the USA
+This project demonstrates a data pipeline to extract, transform and load data  gas prices from CollectAPI (https://collectapi.com/api/gasPrice/gas-prices-api)
