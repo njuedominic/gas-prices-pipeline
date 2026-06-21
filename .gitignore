@@ -1,9 +1,18 @@
 __pycache_/
 *.pyc
 venv/
-env/
 .env
 .env.local
 .env.*.local
 gpenv/
 .venv/
+.env/
+
+# Aiflow Files
+airflow.cfg
+airflow.db
+airflow.db-shm
+airflow.db-wal
+logs/
+simple_auth_manager_passwords.json*
+/tmp/
